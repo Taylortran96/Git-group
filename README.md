@@ -1,9 +1,3 @@
 # Git-group
-abcd
-efc
-taylor
-mind x
+mindx
 2022
-2023
-2024
-2025
